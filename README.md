@@ -2,9 +2,11 @@
 # 👋 Hello, I'm Enis Çağrı!
 
 Welcome to my GitHub profile! 🚀  
-I'm a **Full-Stack Developer** & **Entrepreneur** with over 7 years of experience in building web applications, AI projects, and social platforms.
+I am a **Full-Stack Developer** & **Entrepreneur** with over 7 years of experience in building web applications, AI projects, and social platforms. My focus is on creating **innovative**, **user-friendly**, and **aesthetic** digital experiences. Always eager to learn new technologies and push the boundaries in the tech world.
 
-I focus on creating **innovative**, **user-friendly**, and **aesthetic** experiences. Always eager to learn new technologies and push boundaries in the tech world.
+I am **22 years old** and based in **Antalya**. Currently, I am continuing my education at **Dokuz Eylül University**. My passion for the software world began in my childhood and has grown into a deep interest that drives me to continuously improve and actively contribute to this field.
+
+For me, software development is not just a hobby; it is a powerful tool with which I aim to **simplify human life** and contribute to building a **more sustainable world** by creating innovative solutions.
 
 ---
 
@@ -20,8 +22,10 @@ I focus on creating **innovative**, **user-friendly**, and **aesthetic** experie
 
 ## 🚀 My Projects
 
-- [**TerrAI**] – AI-powered social media platform that creates meaningful connections.
-- [**dizimov.com**] – Movie recommendation platform based on what you’ve watched.
+- [**TerrAI**] – AI-powered social media platform that creates meaningful connections. (TerrAI has not yet been completed.)
+- [**sinemov.com**] – Movie recommendation platform based on what you’ve watched.
+  [**dizimov**] – Anime series recommendation platform based on what you have watched.
+- [**SifreLog**] – A secure and efficient password management tool for safe storage and easy access.
 - [**Enarmi.com**] – A combination of social media and e-commerce.
 
 ---
